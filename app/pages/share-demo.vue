@@ -32,8 +32,8 @@ const url = route.query.url as string
       <Meta name="twitter:card" content="summary_large_image"/>
       <Meta name="twitter:site" content="@Bitunix"/>
       <Meta name="twitter:creator" content="@Bitunix"/>
-      <Meta name="twitter:image" content="https://static.bitunix.com/banner/share-banner-1200.png"/>
-      <Meta property="og:image" content="https://static.bitunix.com/banner/share-banner-1200.png"/>
+      <Meta name="twitter:image" :content="url"/>
+      <Meta property="og:image" :content="url"/>
     </Head>
   </template>
   share demo</div>
