@@ -17,7 +17,7 @@
       <Meta name="twitter:creator" content="@Bitunix"/>
       <Meta name="twitter:image" content="https://static.bitunix.com/banner/share-banner-1200.png"/>
       <Meta property="og:image" content="https://static.bitunix.com/banner/share-banner-1200.png"/>
-      <Meta hid="i18n-og-url" property="og:url" content="https://www.bitunix.com/zh-tw"/>
+      <Meta hid="i18n-og-url" property="og:url" content="https://nuxt-demo.liuleiytu.workers.dev"/>
       <Meta hid="i18n-og" property="og:locale" content="zh_tw"/>
       <Meta hid="i18n-og-alt-de-de" property="og:locale:alternate" content="de_de"/>
       <Meta hid="i18n-og-alt-en-us" property="og:locale:alternate" content="en_us"/>
